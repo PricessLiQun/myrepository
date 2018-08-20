@@ -4,4 +4,5 @@ public class Cat {
 	
 	String name1111;
 	int age;
+	int bbb;
 }
