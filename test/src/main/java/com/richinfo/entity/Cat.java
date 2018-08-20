@@ -6,4 +6,5 @@ public class Cat {
 	int age;
 	int bbb;
 	int ccc;
+	String dot;
 }
