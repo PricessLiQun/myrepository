@@ -2,6 +2,6 @@ package com.richinfo.entity;
 
 public class Cat {
 	
-	String name + test;
+	String name1111;
 	int age;
 }
