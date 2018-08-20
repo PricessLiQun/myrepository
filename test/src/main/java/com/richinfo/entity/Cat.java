@@ -6,5 +6,5 @@ public class Cat {
 	int age;
 	int bbb;
 	int ccc3;
-	String dot0;
+	String dot1;
 }
