@@ -5,6 +5,6 @@ public class Cat {
 	String name1111;
 	int age;
 	int bbb;
-	int ccc;
+	int ccc2;
 	String dot;
 }
